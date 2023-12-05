@@ -6,9 +6,9 @@ Este repositório contém o código-fonte de um contrato inteligente para um sis
 ## Contrato Inteligente (Smart Contract)  
 
 O contrato inteligente é desenvolvido para ser executado em uma blockchain, garantindo transparência e segurança nas transações relacionadas à automação residencial.  
-Testador Automático  
+ 
 
-## Testador em .js  
+## Testador Automático  
 
 O testador automático é uma ferramenta crucial para garantir a robustez e confiabilidade do contrato inteligente. Desenvolvido em JavaScript com o auxílio do framework Flutter, o testador simula cenários de uso, verifica a execução correta das funções.  
 
