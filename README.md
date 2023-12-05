@@ -10,17 +10,38 @@ O contrato inteligente é desenvolvido para ser executado em uma blockchain, gar
 
 ## Testador Automático  
 
-O testador automático é uma ferramenta crucial para garantir a robustez e confiabilidade do contrato inteligente. Desenvolvido em JavaScript com o auxílio do framework Flutter, o testador simula cenários de uso, verifica a execução correta das funções.  
+O testador automático é uma ferramenta crucial para garantir a robustez e confiabilidade do contrato inteligente. Desenvolvido em JavaScript com o auxílio do Truffle, o testador simula cenários de uso, verifica a execução correta das funções.  
 
 # Como Começar  
 
 ## Clone o Repositório:  
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git  
+execute o seguinte comando para clonar o repositório: git clone https://github.com/brubru8888/SSC0958-II.git  
 
 ## Instale as Dependências:  
 
-Instale as dependências do contrato inteligente e do testador automático  
+Instale as dependências do contrato inteligente e do testador automático. No caso do contrato inteligente ele pode ser executado no Remix IDE. Já para o Truffle siga os seguintes passos:
+
+Instale o Truffle CLI globalmente executando o seguinte comando:  
+
+npm install -g truffle  
+
+Assim que a instalação for concluída, verifique se o Truffle CLI foi instalado corretamente executando o seguinte comando:  
+
+truffle version  
+
+Instale dependências adicionais necessárias para o Truffle CLI, como o Ganache CLI. Para instalar o Ganache CLI, por exemplo, execute o seguinte comando:
+
+npm install -g ganache  
+
+Para executar todos os testes, basta executar:
+
+truffle test  
+ 
+Alternativamente, você pode especificar um caminho para um arquivo específico que deseja executar, por exemplo:  
+
+truffle test ./path/to/test/file.js  
+
 
 ## Configuração do Ambiente:  
 
