@@ -24,23 +24,23 @@ Instale as dependências do contrato inteligente e do testador automático. No c
 
 Instale o Truffle CLI globalmente executando o seguinte comando:  
 
-npm install -g truffle  
+'npm install -g truffle'  
 
 Assim que a instalação for concluída, verifique se o Truffle CLI foi instalado corretamente executando o seguinte comando:  
 
-truffle version  
+'truffle version'  
 
 Instale dependências adicionais necessárias para o Truffle CLI, como o Ganache CLI. Para instalar o Ganache CLI, por exemplo, execute o seguinte comando:
 
-npm install -g ganache  
+'npm install -g ganache'  
 
 Para executar todos os testes, basta executar:
 
-truffle test  
+'truffle test'  
  
 Alternativamente, você pode especificar um caminho para um arquivo específico que deseja executar, por exemplo:  
 
-truffle test ./path/to/test/file.js  
+'truffle test ./path/to/test/file.js'  
 
 
 ## Configuração do Ambiente:  
