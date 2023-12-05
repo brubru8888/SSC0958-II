@@ -1,29 +1,31 @@
-# SSC0958 - Projeto II - Smart Home Smart Contract with IoT Integration and Automated Testing
+# SSC0958 - Projeto II - Smart Home Smart Contract with IoT Integration and Automated Testing  
 
-Este repositório contém o código-fonte de um contrato inteligente para um sistema de casa inteligente (Smart Home), que utiliza a tecnologia IoT para fornecer uma experiência integrada e automatizada para os usuários. Além disso, inclui um testador automático desenvolvido em JavaScript com o auxílio do framework Flutter.
+Este repositório contém o código-fonte de um contrato inteligente para um sistema de casa inteligente (Smart Home), que utiliza a tecnologia IoT para fornecer uma experiência integrada e automatizada para os usuários. Além disso, inclui um testador automático desenvolvido em JavaScript com o auxílio do framework Flutter.  
 
-# Visão Geral
-Contrato Inteligente (Smart Contract)
+# Visão Geral  
+## Contrato Inteligente (Smart Contract)  
 
-O contrato inteligente é desenvolvido para ser executado em uma blockchain, garantindo transparência e segurança nas transações relacionadas à automação residencial.
-Testador Automático
+O contrato inteligente é desenvolvido para ser executado em uma blockchain, garantindo transparência e segurança nas transações relacionadas à automação residencial.  
+Testador Automático  
 
-O testador automático é uma ferramenta crucial para garantir a robustez e confiabilidade do contrato inteligente. Desenvolvido em JavaScript com o auxílio do framework Flutter, o testador simula cenários de uso, verifica a execução correta das funções.
+## Testador em .js  
 
-Como Começar
+O testador automático é uma ferramenta crucial para garantir a robustez e confiabilidade do contrato inteligente. Desenvolvido em JavaScript com o auxílio do framework Flutter, o testador simula cenários de uso, verifica a execução correta das funções.  
 
-Clone o Repositório:
+# Como Começar  
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+## Clone o Repositório:  
 
-Instale as Dependências:
+git clone https://github.com/seu-usuario/nome-do-repositorio.git  
 
-Instale as dependências do contrato inteligente e do testador automático
+## Instale as Dependências:  
 
-Configuração do Ambiente:
+Instale as dependências do contrato inteligente e do testador automático  
 
-Configure as variáveis de ambiente necessárias para a execução do contrato inteligente e do testador automático.
+## Configuração do Ambiente:  
 
-Licença
+Configure as variáveis de ambiente necessárias para a execução do contrato inteligente e do testador automático.  
 
-Este projeto é licenciado sob os termos da Licença MIT. Leia o arquivo LICENSE para obter mais informações.
+# Licença  
+
+Este projeto é licenciado sob os termos da Licença MIT. Leia o arquivo LICENSE para obter mais informações.  
